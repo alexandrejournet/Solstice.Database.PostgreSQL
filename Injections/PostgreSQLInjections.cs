@@ -2,7 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace Radiant.NET.Database.PostgreSQL.Injections
+namespace Radiant.Database.PostgreSQL.Injections
 {
     public static class PostgreSqlInjections
     {

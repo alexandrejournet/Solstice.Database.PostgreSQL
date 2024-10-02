@@ -1,3 +1,3 @@
-# Radiant.NET.Database.PostgreSQL
+# Radiant.Database.PostgreSQL
 
 Helper pour PostgreSQL
