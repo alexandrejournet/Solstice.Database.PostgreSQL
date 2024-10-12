@@ -2,7 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace Radiant.Database.PostgreSQL.Injections
+namespace Solstice.Database.PostgreSQL.Injections
 {
     public static class PostgreSqlInjections
     {

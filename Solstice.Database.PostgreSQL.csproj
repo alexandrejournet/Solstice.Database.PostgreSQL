@@ -16,6 +16,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Version>${VersionPrefix}-${VersionSuffix}</Version>
     <LangVersion>latest</LangVersion>
+    <RootNamespace>Solstice.Database.PostgreSQL</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,3 +1,3 @@
-# Radiant.Database.PostgreSQL
+# Solstice.Database.PostgreSQL
 
 Helper pour PostgreSQL
