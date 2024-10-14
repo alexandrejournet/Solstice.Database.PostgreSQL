@@ -17,7 +17,15 @@
     <Version>${VersionPrefix}-${VersionSuffix}</Version>
     <LangVersion>latest</LangVersion>
     <RootNamespace>Solstice.Database.PostgreSQL</RootNamespace>
+    <PackageIcon>icon.png</PackageIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\icon.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.10" />
